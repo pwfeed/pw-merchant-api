@@ -1,4 +1,26 @@
 # PW Merchant API
+<p align="center">
+  <a href="https://www.pwfeed.com/">
+    <img src="./assets/pw-gib.jpg" alt="PW Feed logo" width="180">
+  </a>
+</p>
+
+<p align="center">
+  <strong>Smarter WooCommerce product management for Google Merchant Center</strong>
+</p>
+
+
+<p align="center">
+  <a href="https://www.pwfeed.com/">
+    <img src="https://img.shields.io/badge/Product_Website-FFCC00?style=for-the-badge&logoColor=333333" alt="PW Feed product website">
+  </a>
+  <a href="https://www.pwfeed.com/support.html">
+    <img src="https://img.shields.io/badge/Support-333333?style=for-the-badge&logoColor=ffffff" alt="PW Feed support">
+  </a>
+  <a href="https://www.youtube.com/watch?v=zlBnVtTI8bQ">
+    <img src="https://img.shields.io/badge/Watch_Demo-FFCC00?style=for-the-badge&logo=youtube&logoColor=333333" alt="Watch PW Merchant API demo">
+  </a>
+</p>
 
 PW Merchant API is a professional WooCommerce integration designed to help merchants connect their WordPress store to their own Google Merchant Center account.
 
